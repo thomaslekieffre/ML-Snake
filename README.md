@@ -20,8 +20,8 @@ Petit script python pour entraîner et suivre une intelligence artificielle joua
 1. Cloner le repo :
 
 ```bash
-git clone https://github.com/votre-username/ml-snake-trainer.git
-cd ml-snake-trainer
+git clone https://github.com/thomaslekieffre/ML-Snake.git
+cd ML-Snake
 ```
 
 2. Installer les dépendances :
